@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:48:52	14596/14596	---M-Z	200	added ('OK')	text/html	etag:%223904-59bb52ce-a93382b8a9f2956f;gz%22	http://mtqgame.com/games/slotomania.html	C:/Users/trung%20anh/Desktop/fish/1/mtqgame.com/games/slotomania.html	(from )
+20:48:53	618/618	---M--	404	error ('Not%20Found')	text/html	date:Tue,%2026%20Sep%202017%2013:48:51%20GMT	http://mtqgame.com/robots.txt		(from )
